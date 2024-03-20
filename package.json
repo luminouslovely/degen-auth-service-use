@@ -1,0 +1,32 @@
+{
+  "name": "degen-auth-service-use",
+  "version": "1.0.0",
+  "description": "Easily integrate and utilize the decentralized authentication service for seamless user authentication.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luminouslovely/degen-auth-service-use"
+  },
+  "author": "luminouslovely",
+  "license": "MIT",
+  "dependencies": {
+    "degen-auth-service": "1.0.0",
+    "degen-auth-service-use": "1.0.0",
+    "express": "1.0.0",
+    "jquery": "1.0.0",
+    "axios": "1.0.0",
+    "babel-core": "1.0.0",
+    "eth-crypto": "1.0.0",
+    "request": "1.0.0",
+    "react": "1.0.0",
+    "truffle": "1.0.0",
+    "react-dom": "1.0.0",
+    "firebase": "1.0.0",
+    "web3-utils": "1.0.0",
+    "mongoose": "1.0.0",
+    "underscore": "1.0.0"
+  }
+}
